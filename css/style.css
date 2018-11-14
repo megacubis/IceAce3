@@ -133,7 +133,6 @@ td {
 
 }
 
-
 .buy {
     display: flex;
     flex-direction: column;
@@ -165,4 +164,6 @@ td {
 .inputs {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    width: 500px;
 }
