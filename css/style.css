@@ -23,47 +23,47 @@ body {
  
 .logo, 
 .main-nav {
-     padding: 20px 0;
+    padding: 20px 0;
 }
  
 .main-list {
-     padding: 0;
+    padding: 0;
 }
  
 .main-items {
-     display: inline-block;
-     padding-left: 20px;
-     text-transform: uppercase;
+    display: inline-block;
+    padding-left: 20px;
+    text-transform: uppercase;
 }
  
 .main-link {
-     color: #111;
-     font-size: 18px;
-     text-decoration: none;
-     font-weight: bold;
+    color: #111;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
 }
  
 .contacts {
-     display: flex;
-     align-items: center;
+    display: flex;
+    align-items: center;
 }
    
 .contacts-phone {
-     padding: 20px;
-     text-decoration: none;
-     color: #111;
-     font-weight: bold;
-     font-size: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: #111;
+    font-weight: bold;
+    font-size: 20px;
 }
    
 .btn {
-     border: 2px solid #000;
-     color: #74e196;
-     background-color: #fff;
-     padding: 10px;
-     text-decoration: none;
-     text-transform: uppercase;
-     font-weight: bold;
+    border: 2px solid #000;
+    color: #74e196;
+    background-color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 h1 {
